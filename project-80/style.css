@@ -49,8 +49,7 @@
     max-height: 400px;
     overflow-y: auto;
   }
-  
-  /* JavaScript */
+
   .user-list li {
     display: flex;
     padding: 20px;
