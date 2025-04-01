@@ -22,9 +22,6 @@ function decimal() {
   const h1 = document.createElement("h1");
   h1.innerHTML = `${binary}`;
 
-  //   h1.style.border = "2px solid black";
-  //   h1.style.padding = "10px";
-  //   h1.style.marign = "5px";
 
   const container = document.querySelector(".results-container");
   container.append(h1);
