@@ -10,7 +10,7 @@
     justify-content: center;
     height: 100vh;
     margin: 0;
-    background-color: rgb(5, 5, 5);
+    background-color: rgb(134, 64, 64);
     color: #fff;
   }
   
@@ -24,9 +24,6 @@
     background-position: center;
     background-repeat: no-repeat;
   }
-  
-  /* IMAGES SOURCES  */
-  /* https://wallpapercave.com/pc-games-wallpapers  */
   
   .image-1 {
     background-image: url(https://wallpapercave.com/dwp2x/wp3163455.jpg);
