@@ -166,7 +166,6 @@
     opacity: 1;
   }
   
-  /* Animation for JavaScrpit */
   @keyframes slide {
     100% {
       left: 100%;
